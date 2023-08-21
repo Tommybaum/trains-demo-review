@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+}
+
+.navbar {
+    text-align: center;
+    margin: 1em;
+}
+
+a {
+    padding:2em;
+}
